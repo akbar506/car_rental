@@ -36,7 +36,9 @@ export default function RootLayout({
                 </Link>
               </li>
               <li>
-                <Github />
+                <Link href={"https://github.com/akbar506/car_rental"} target="_blank">
+                  <Github />
+                </Link>
               </li>
             </ul>
           </nav>
